@@ -7,10 +7,6 @@
 <h1 align="center">Thovaguh</h1>
 
 <p align="center">
-  <i>código limpo não é escrito por acaso, é construído com intenção.</i>
-</p>
-
-<p align="center">
   Estudante de Ciência da Computação na FEMA, em Assis - SP.<br>
   Estagiário no laboratório de informática, cuidando de hardware, software e suporte.<br>
   Curioso por cibersegurança e hardware.
