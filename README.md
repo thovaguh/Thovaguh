@@ -13,7 +13,7 @@
 <p align="center">
   Estudante de Ciência da Computação na FEMA, em Assis - SP.<br>
   Estagiário no laboratório de informática, cuidando de hardware, software e suporte.<br>
-  Curioso por cibersegurança, hardware e por construir coisas do zero.
+  Curioso por cibersegurança e hardware.
 </p>
 
 <br>
@@ -26,8 +26,8 @@
   "localizacao": "Assis, SP - Brasil",
   "stack": ["Python", "C#", "C++", "PHP", "JavaScript"],
   "ferramentas": ["Visual Studio", "VS Code", "Git"],
-  "interesses": ["Cibersegurança", "Hardware", "OpenGL"],
-  "status": "sempre aprendendo"
+  "interesses": ["Cibersegurança" e "Hardware"],
+          "bom você se torna..."
 }
 ```
 
