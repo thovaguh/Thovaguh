@@ -27,7 +27,8 @@
   "stack": ["Python", "C#", "C++", "PHP", "JavaScript"],
   "ferramentas": ["Visual Studio", "VS Code", "Git"],
   "interesses": ["Cibersegurança" e "Hardware"],
-          "bom você se torna..."
+
+              "bom você se torna..."
 }
 ```
 
