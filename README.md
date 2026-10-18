@@ -26,7 +26,7 @@
   "localizacao": "Assis, SP - Brasil",
   "stack": ["Python", "C#", "C++", "PHP", "JavaScript"],
   "ferramentas": ["Visual Studio", "VS Code", "Git"],
-  "interesses": ["Cibersegurança","Hardware"];
+  "interesses": ["Cibersegurança","Hardware"]
 }
 ```
 
