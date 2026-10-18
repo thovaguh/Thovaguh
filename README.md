@@ -1,6 +1,5 @@
 <div align="center">
-  <img src=Lily.jpg src="https://github.com/user-attachments/assets/33dd35c4-02c9-44ea-97d8-68209c164395" />
- alt="banner thovaguh" width="100%">
+  <img src="Lily.jpg" alt="banner thovaguh" width="100%">
 </div>
 
 <br>
