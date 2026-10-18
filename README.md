@@ -26,9 +26,7 @@
   "localizacao": "Assis, SP - Brasil",
   "stack": ["Python", "C#", "C++", "PHP", "JavaScript"],
   "ferramentas": ["Visual Studio", "VS Code", "Git"],
-  "interesses": ["Cibersegurança" e "Hardware"],
-
-              "bom você se torna..."
+  "interesses": ["Cibersegurança" e "Hardware"];
 }
 ```
 
@@ -46,7 +44,7 @@
 <br>
 
 ```java
-System.out.println("Código limpo não é escrito por acaso, é construído com intenção.");
+System.out.println("bom você se torna...");
 ```
 
 <p align="center">
