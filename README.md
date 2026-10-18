@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="banner.svg" alt="banner thovaguh" width="100%">
+  <img src=<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/33dd35c4-02c9-44ea-97d8-68209c164395" />
+ alt="banner thovaguh" width="100%">
 </div>
 
 <br>
